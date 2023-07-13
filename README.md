@@ -1,6 +1,6 @@
 # UI-Replica
 
-#Used:
+# Used:
 1. React-icons
 2. MUI
 3. Tailwind CSS

@@ -1,0 +1,14 @@
+.contact-wrapper {
+    position: fixed;
+    top: 594px;
+    left: 0;
+    z-index: 999;
+    background-color: whitesmoke;
+}
+.chat-wrapper {
+    position: fixed;
+        top: 630px;
+        right: 0;
+        z-index: 999;
+        background-color: whitesmoke;
+}

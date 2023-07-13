@@ -1,0 +1,64 @@
+.shadow-card {
+    /* border: 0px solid #000;
+    border-bottom-width: 0px;*/
+    box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1);
+    
+}
+
+.carousel-container {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    margin-top: 30px;
+   
+}
+
+.carousel-arrow {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #000;
+    padding: 4px;
+}
+
+.carousel-items {
+    display: flex;
+    overflow: hidden;
+    scroll-snap-type: x mandatory;
+    
+}
+
+.carousel-card {
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+    padding: 8px;
+    
+}
+
+.card-image {
+    width: 204px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 4px;
+    
+}
+
+.carousel-container::-webkit-scrollbar {
+    width: 0.5rem;
+    height: 0.5rem;
+    
+}
+
+.carousel-container::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 0.25rem;
+}
+
+.carousel-container::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.carousel-container::-webkit-scrollbar-corner {
+    background: transparent;
+}

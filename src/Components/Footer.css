@@ -1,0 +1,53 @@
+.footer {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.left-section {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.tagline {
+    margin: 0;
+}
+
+.right-section {
+    display: flex;
+    align-items: center;
+}
+
+.navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.navigation ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.social-media a {
+    color: black;
+    margin-right: 10px;
+}
+
+.play-store {
+    width: 100px;
+    height: 40px;
+}

@@ -3,10 +3,10 @@ import "./House.css";
 const WallPanel = () => {
   const cards =[
    "https://d3faqy0icgqzj8.cloudfront.net/CollectionImages/Charcoal_Panels_priced.jpg?width=100",
-   "https://d3faqy0icgqzj8.cloudfront.net/CollectionImages/mdf_panel_mob_price.jpg?width=80",
-   "https://d3faqy0icgqzj8.cloudfront.net/CollectionImages/wpc_panel_mob_price.jpg?width=80",
-   "https://d3faqy0icgqzj8.cloudfront.net/CollectionImages/woodlook_panel_mob_price.jpg?width=80",
-   "https://d3faqy0icgqzj8.cloudfront.net/CollectionImages/plainlook_panel_mob_price.jpg?width=80",
+   "https://d3faqy0icgqzj8.cloudfront.net/CollectionImages/MDF%20Panels_priced.jpg?width=100",
+   "https://d3faqy0icgqzj8.cloudfront.net/CollectionImages/WPC_Panels_priced.jpg?width=100",
+   "https://d3faqy0icgqzj8.cloudfront.net/CollectionImages/Wooden_look-375.jpg?width=100",
+   "https://d3faqy0icgqzj8.cloudfront.net/CollectionImages/Plain_Colour_Panels_priced.jpg?width=100",
    "https://d3faqy0icgqzj8.cloudfront.net/CollectionImages/Marble%20Texture%20Panels_priced.jpg?width=100"
 
 ]
